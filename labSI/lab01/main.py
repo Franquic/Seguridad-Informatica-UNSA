@@ -183,3 +183,4 @@ if __name__ == '__main__':
     
     # Preprocesar con padding
     preprocesar_con_padding('POEMA_PRE.txt', 'AQP.txt')
+    
